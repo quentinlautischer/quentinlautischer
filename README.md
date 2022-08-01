@@ -2,7 +2,7 @@
 
 My name is Quentin Lautischer and I'm a software developer. I'm from Canada, living in British Columbia. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlautischer&layout=compact&theme=gruvbox&count_private=true&hide=javascript,java,objective-c,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlautischer&layout=compact&count_private=true&hide=javascript,java,objective-c,html,css,python,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
