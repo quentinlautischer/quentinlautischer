@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlautischer&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlautischer&layout=compact&theme=gruvbox&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=quentinlautischer&count_private=true&show_icons=true&theme=gruvbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quentinlautischer&theme=gruvbox&repo=ProjektQ.TaskT)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **quentinlautischer/quentinlautischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
