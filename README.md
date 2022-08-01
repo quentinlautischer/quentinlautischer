@@ -1,8 +1,9 @@
-### Hi there 👋
+# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlautischer&layout=compact&theme=gruvbox&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+My name is Quentin Lautischer and I'm a software developer. I'm from Canada, living in British Columbia. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quentinlautischer&theme=gruvbox&repo=ProjektQ.TaskT)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlautischer&layout=compact&theme=gruvbox&count_private=true&hide=javascript,java,objective-c,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **quentinlautischer/quentinlautischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
